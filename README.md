@@ -9,6 +9,11 @@ User stories completed:
 
 Got stuck many times and didn't have time to complete extra features for this one.
 
+Walkthrough of all user stories:
+
+![Video Walkthrough](walkthrough.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
